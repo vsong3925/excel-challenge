@@ -1,5 +1,7 @@
 # Excel Kickstart Project
 
+![Kickstarter Logo](Images/kickstart.jpeg)
+
 
 ## Background
 
