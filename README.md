@@ -1,6 +1,6 @@
-# Excel Kickstart Project
+# Excel Kickstarter Project
 
-![Kickstarter Logo](Images/kickstart.jpeg)
+![Kickstarter Logo](Images/kickstarter.png)
 
 
 ## Background
